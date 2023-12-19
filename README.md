@@ -1,1 +1,1 @@
-# mybgcccddd
+# sınav okuyucu kod
